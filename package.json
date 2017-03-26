@@ -12,6 +12,10 @@
   ],
   "author": "Matthias Günther",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matgnt/xml2js-promise-matgnt.git"
+  },
   "dependencies": {
     "xml2js": "^0.4.17"
   },
